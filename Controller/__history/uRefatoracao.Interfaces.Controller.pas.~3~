@@ -1,0 +1,11 @@
+unit uRefatoracao.Interfaces.Controller;
+
+interface
+ type
+ iModel_Refatorar = interface
+  ['{A46EBD72-3211-4D65-8857-66453E87930A}']
+
+ end;
+implementation
+
+end.

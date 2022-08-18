@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/03/22 19:33:32.000.349,=C:\Users\Ricardo\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2021/06/14 20:38:08.295,=C:\Users\Ricardo\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2021/06/14 20:43:36.497,C:\Delphi\Refatoração\View\Refatoracao.View.Main.dfm=C:\Users\Ricardo\Documents\Embarcadero\Studio\Projects\Unit4.dfm</Transaction>
+    <Transaction>2021/06/14 20:43:36.497,C:\Delphi\Refatoração\View\Refatoracao.View.Main.pas=C:\Users\Ricardo\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2021/06/14 20:44:00.486,C:\Delphi\Refatoração\ProjRefatoracao.dproj=C:\Users\Ricardo\Documents\Embarcadero\Studio\Projects\Project4.dproj</Transaction>
+    <Transaction>2021/06/14 20:54:20.677,=C:\Delphi\Refatoração\Unit1.pas</Transaction>
+    <Transaction>2021/06/14 20:55:08.137,C:\Delphi\Refatoração\Controller\uRefatoracao.Controller.Refatorar.pas=C:\Delphi\Refatoração\Unit1.pas</Transaction>
+    <Transaction>2021/06/14 20:55:27.266,=C:\Delphi\Refatoração\Unit1.pas</Transaction>
+    <Transaction>2021/06/14 20:55:54.197,C:\Delphi\Refatoração\Controller\uRefatoracao.Interfaces.Controller.pas=C:\Delphi\Refatoração\Unit1.pas</Transaction>
+    <Transaction>2021/06/14 20:56:02.846,=C:\Delphi\Refatoração\Unit1.pas</Transaction>
+    <Transaction>2021/06/14 20:56:29.940,C:\Delphi\Refatoração\Model\uRefatoracao.Interfaces.Model.pas=C:\Delphi\Refatoração\Unit1.pas</Transaction>
+    <Transaction>2021/06/14 20:56:34.950,=C:\Delphi\Refatoração\Unit1.pas</Transaction>
+    <Transaction>2021/06/14 20:57:29.600,C:\Delphi\Refatoração\Model\uRefatoracao.Model.Refatorar.pas=C:\Delphi\Refatoração\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
